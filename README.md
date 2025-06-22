@@ -23,10 +23,9 @@ My goal is to build strong foundations in digital security and contribute to bui
 
 <h3>🖇️ Connect with me:</h3>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][YouTube]
-[<img align="left" alt="JoshMadakor | X" width="22px" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-andre-lemos/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@michaellemosc)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michaellemosc)
 
 [X]: https://x.com/michaellemosc
 [YouTube]: https://www.youtube.com/@michaellemosc
