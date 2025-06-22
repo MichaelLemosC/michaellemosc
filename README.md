@@ -23,14 +23,14 @@ My goal is to build strong foundations in digital security and contribute to bui
 
 <h3>🖇️ Connect with me:</h3>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][YouTube]
+[<img align="left" alt="JoshMadakor | X" width="22px" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />][X]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-[twitter]: https://twitter.com/@michaellemosc
-[youtube]: https://www.youtube.com/@michaellemosc
-[linkedin]: https://www.linkedin.com/in/michael-andre-lemos/
+[X]: https://x.com/michaellemosc
+[YouTube]: https://www.youtube.com/@michaellemosc
+[LinkedIn]: https://www.linkedin.com/in/michael-andre-lemos/
 
 <!--
 **michaellemosc/michaellemosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
