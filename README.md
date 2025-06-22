@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/michael-andre-lemos/">Buyer | Project Manager</a> and 
 <a href="https://www.youtube.com/@michaellemosc">YouTuber</a></h2>
 
-<h3>About Me</h3>
+<h3>👨🏻‍💻 About Me</h3>
 I’m a Cybersecurity enthusiast making a career transition from business management to information security. 
 My goal is to build strong foundations in digital security and contribute to building safer systems.
 
-<h3>👨🏻‍💻 Cybersecurity Projects:</h3>
+<h3>🛡️ Cybersecurity Projects:</h3>
 
 - [Active Directory Home Lab](https://github.com/michaellemosc/Active-DirectoryURL)
 - [Hello World!](https://github.com/michaellemosc/Hello-WorldURL)
