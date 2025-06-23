@@ -10,6 +10,10 @@ My goal is to build strong foundations in digital security and contribute to bui
 
 <h3>🛡️ Cybersecurity Projects:</h3>
 
+- [Professional Statement](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/professional-statement)
+- [Linux File Permissions](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/linux-permissions)
+- [SQL Filtering](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/sql-filtering)
+- [Incident Handler Journal](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/incident-handler-journal)
 - [Active Directory Home Lab](https://github.com/michaellemosc/Active-DirectoryURL)
 - [Hello World!](https://github.com/michaellemosc/Hello-WorldURL)
 
