@@ -10,12 +10,19 @@ My goal is to build strong foundations in digital security and contribute to bui
 
 <h3>🛡️ Cybersecurity Projects:</h3>
 
-- [Professional Statement](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/professional-statement)
-- [Linux File Permissions](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/linux-permissions)
-- [SQL Filtering](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/sql-filtering)
-- [Incident Handler Journal](https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/incident-handler-journal)
-- [Active Directory Home Lab](https://github.com/michaellemosc/Active-DirectoryURL)
-- [Hello World!](https://github.com/michaellemosc/Hello-WorldURL)
+- [CyberNotes – Study Notebook](https://github.com/MichaelLemosC/CyberNotes-MichaelLemos)
+
+<h3>🚧 Upcoming Projects:</h3>
+
+I'm building these in public to document my learning process and share practical cybersecurity applications.
+These repositories are currently under construction and will be added soon:
+
+- [Professional Statement] <!--(https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/professional-statement)-->
+- [Linux File Permissions]<!--(https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/linux-permissions)-->
+- [SQL Filtering]<!--(https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/sql-filtering)-->
+- [Incident Handler Journal]<!--(https://github.com/MichaelLemosC/cybersecurity-portfolio/tree/main/incident-handler-journal)-->
+- [Active Directory Home Lab]<!--(https://github.com/michaellemosc/Active-DirectoryURL)-->
+- [Hello World!]<!--(https://github.com/michaellemosc/Hello-WorldURL)-->
 
 <h3>📄 Certifications:</h3>
 
