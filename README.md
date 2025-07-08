@@ -44,14 +44,6 @@ These repositories are currently under construction and will be added soon:
 [YouTube]: https://www.youtube.com/@michaellemosc
 [LinkedIn]: https://www.linkedin.com/in/michael-andre-lemos/
 
-<h3>🖇️ Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-andre-lemos/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@michaellemosc)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michaellemosc)
-
-
-
 <!--
 **michaellemosc/michaellemosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
