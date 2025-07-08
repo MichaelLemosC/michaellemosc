@@ -5,12 +5,14 @@
 <a href="https://www.youtube.com/@michaellemosc">YouTuber</a></h2>
 
 <h3>👨🏻‍💻 About Me</h3>
+📅 Current Focus: Building technical portfolio and learning cybersecurity hands-on.
+
 I’m a Cybersecurity enthusiast making a career transition from business management to information security. 
 My goal is to build strong foundations in digital security and contribute to building safer systems.
 
 <h3>🛡️ Cybersecurity Projects:</h3>
 
-- [CyberNotes – Study Notebook](https://github.com/MichaelLemosC/CyberNotes-MichaelLemos)
+- [CyberNotes – My Cybersecurity Study Notebook](https://github.com/MichaelLemosC/CyberNotes-MichaelLemos)
 
 <h3>🚧 Upcoming Projects:</h3>
 
@@ -41,6 +43,13 @@ These repositories are currently under construction and will be added soon:
 [X]: https://x.com/michaellemosc
 [YouTube]: https://www.youtube.com/@michaellemosc
 [LinkedIn]: https://www.linkedin.com/in/michael-andre-lemos/
+
+<h3>🖇️ Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-andre-lemos/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@michaellemosc)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michaellemosc)
+
 
 
 <!--
