@@ -28,11 +28,11 @@ These repositories are currently under construction and will be added soon:
 
 <h3>📄 Certifications:</h3>
 
-- [Google Cybersecurity Professional](https://github.com/michaellemosc/Certificate)
+- [Google Cybersecurity Professional] (in progress)<!--(https://github.com/michaellemosc/Certificate)-->
 
 <h3>🎥 YouTube Videos</h3>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/@michaellemoscURL)
+- [Tutorial Active Directory Home Lab] (in progress)<!--(https://www.youtube.com/@michaellemoscURL)-->
 
 <h3>🖇️ Connect with me:</h3>
 
